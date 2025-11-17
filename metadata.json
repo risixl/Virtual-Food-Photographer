@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Studio",
+  "description": "An AI-powered application to generate high-quality food photography from text descriptions and edit existing images using text prompts. Powered by Google's Imagen and Gemini models.",
+  "requestFramePermissions": []
+}
